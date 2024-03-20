@@ -7,17 +7,6 @@
     color: blanchedalmond;
 }
 
-
-.chaps{
-    
-    display: grid;
-  margin-top: 30px;
-    text-align: center !important;
-    grid-template-columns: 1fr 1fr;
-
-}
-
 body {
-    background-color:cadetblue;
     cursor: pointer;
 }

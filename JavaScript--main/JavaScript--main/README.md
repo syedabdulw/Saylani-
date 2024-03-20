@@ -1,2 +1,0 @@
-# JavaScript 
- assignments, tasks SAYLANI
