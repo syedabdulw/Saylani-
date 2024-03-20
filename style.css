@@ -10,3 +10,7 @@
 body {
     cursor: pointer;
 }
+
+.button {
+    align-items: center;
+}
